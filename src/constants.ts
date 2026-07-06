@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'https://async-race-pi-nine.vercel.app';
+export const API_BASE_URL = 'localhost:3000';
 export const GARAGE_PAGE_SIZE = 7;
 export const WINNERS_PAGE_SIZE = 10;
 export const RANDOM_CAR_COUNT = 100;
