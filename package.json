@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "homepage": "https://mkr-sof.github.io/async_race",
+  "homepage": "https://mkr-sof.github.io/async__race",
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.0",
     "classnames": "^2.5.1",
